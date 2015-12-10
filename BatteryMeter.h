@@ -11,7 +11,7 @@ public:
         // out of 100.
         float getPercentCharge();
         // Gets the current temperature on the battery,
-        // in celcius.
+        // in celsius.
         float getTemperature();
 };
  
